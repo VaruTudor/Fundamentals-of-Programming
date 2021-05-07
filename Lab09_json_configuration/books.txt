@@ -1,0 +1,13 @@
+1,cc,dd
+2,ccc,ddd
+8113,ddddc,cccdd
+3120,drr,trr
+7743,dff,gvv
+4138,rtt,yuu
+4082,iii,ooo
+8391,tt,yy
+4702,upp,ioo
+1340,pp,ll
+9181,dd,ff
+1800,dd,cc
+3787,dd,fff
